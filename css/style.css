@@ -58,7 +58,7 @@ img {
 }
 /*-- //Reset Code --*/
 .banner-agileits{
-	background:url('../images/banner2.jpg') no-repeat 0px 0px;
+	background:url('../images/background2.jpg') no-repeat 0px 0px;
 	background-size:cover;
 	min-height:799px;
 }
@@ -71,7 +71,7 @@ img {
 }
 .logo a h2{
 	font-size:40px;
-	color:#fff;
+	color:#8a6d3b;
 }
 .navbar-default {
 	background:none;
@@ -101,7 +101,7 @@ img {
     background-color: rgba(205, 220, 57, 0.69);
 }
 .navbar-default .navbar-nav > li > a {
-   color:#CDDC39;
+   color:#31708f;
 }
 .navbar {
     margin-bottom:0px;
